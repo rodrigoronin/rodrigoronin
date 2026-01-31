@@ -37,9 +37,11 @@ I'm a Front-end / Full-stack developer.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<div style="margin: 7rem 0;">
+<br />
+<br />
+<br />
 
-#
+---
 
 <!-- ### 📊 Stats
 
@@ -49,7 +51,8 @@ I'm a Front-end / Full-stack developer.
 
 # -->
 
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a game developer with a passion to learn everything I could about this programming world - code, software architecture, performance optimizations, server architecture.
+ 
+   ## 👨‍💻 My Coding Journey
+I started my coding journey as a game developer with a passion to learn everything I could about this programming world - code, software architecture, performance optimizations, server architecture.
    
-   Since 2015 I've created VR and AR softwares, educational and mobile games and all the while, teaching myself web development with the intention to build my own web app. A desire that landed me a front-end software developer job in 2020 and since then I an passionate about everything related to JavaScript/TypeScript, being it front-end, back-end or mobile.
+Since 2015 I've created VR and AR softwares, educational and mobile games and all the while, teaching myself web development with the intention to build my own web app. A desire that landed me a front-end software developer job in 2020 and since then I an passionate about everything related to JavaScript/TypeScript, being it front-end, back-end or mobile.
