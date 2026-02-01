@@ -18,6 +18,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
+          include_all_commits: true
 
       - name: Commit cards
         run: |
