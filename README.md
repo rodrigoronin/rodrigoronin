@@ -43,16 +43,14 @@ I'm a Front-end / Full-stack developer.
 
 ---
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
-![Rodrigos's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoronin&show_icons=true&theme=gruvbox)
+![Rodrigo's GitHub stats](./profile/stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoronin&theme=gruvbox&border_radius=4.5)
+#
 
-# -->
+## 👨‍💻 My Coding Journey
 
- 
-   ## 👨‍💻 My Coding Journey
 I started my coding journey as a game developer with a passion to learn everything I could about this programming world - code, software architecture, performance optimizations, server architecture.
-   
+
 Since 2015 I've created VR and AR softwares, educational and mobile games and all the while, teaching myself web development with the intention to build my own web app. A desire that landed me a front-end software developer job in 2020 and since then I an passionate about everything related to JavaScript/TypeScript, being it front-end, back-end or mobile.
