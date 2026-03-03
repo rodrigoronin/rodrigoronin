@@ -42,11 +42,11 @@ I'm a Front-end / Full-stack developer.
 <br />
 
 ---
-
+<!--
 ### 📊 Stats
 
 ![Rodrigo's GitHub stats](./profile/stats.svg)
-
+-->
 #
 
 ## 👨‍💻 My Coding Journey
